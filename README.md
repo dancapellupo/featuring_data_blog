@@ -7,6 +7,8 @@ posts on [Featuring Data](https://featuringdata.substack.com/) and my articles o
 
 ## Featuring Data
 
-[comment]: <> (Post [#11] )
+### Clustering Deep Dive
 
+- Post [#11] Deep Dive into Clustering (Part 1): [Blog Post](https://featuringdata.substack.com/p/11-clustering-deep-dive-part-1)
+  and [Jupyter Notebook](https://github.com/dancapellupo/featuring_data_blog/blob/master/clustering/clustering_part1_kmeans.ipynb)
 
